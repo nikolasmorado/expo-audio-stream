@@ -10,7 +10,6 @@
     "clean": "expo-module clean",
     "lint": "expo-module lint",
     "test": "expo-module test",
-    "prepare": "expo-module prepare",
     "postinstall": "husky",
     "prepublishOnly": "expo-module prepublishOnly",
     "expo-module": "expo-module",
